@@ -1,0 +1,26 @@
+h3{
+    font-size: 30px;
+    text-decoration:overline;
+    
+}
+.second{
+    display: none;
+    /*visibility: hidden;*/
+}
+.blog{
+    margin: 10px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 10px violet;
+}
+.stop{
+    text-decoration: none;
+}
+.block{
+    border:2px solid  yellow ;
+    display:inline-block;
+    margin: 20px;
+     
+}
+li{
+    display: inline;
+}
